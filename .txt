@@ -1,5 +1,0 @@
-https://source.unsplash.com/500x500/?css,code
-
-
-
-rounded-3 shadow-sm bg-light p-3
