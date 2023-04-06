@@ -105,3 +105,15 @@ $(document).ready(function () {
       autoplay:true
   });
 });
+
+
+$(document).ready(function(){
+  $('button').click(function(){
+    $('.contact, .work, .partners, #footer').css('display', 'none');
+    window.print();
+    $('.contact, .work, .partners, #footer').css('display', '');
+  });
+});
+
+
+
