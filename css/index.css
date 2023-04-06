@@ -83,7 +83,12 @@ nav .inner button {
   color: var(--pure);
   font-size: 14px;
   border-radius: 4px;
+  cursor: pointer;
 }
+nav .inner button:hover{
+  background: var(--info);
+}
+
 
 /* NavBar-End */
 
@@ -248,6 +253,10 @@ section.about .content .left button {
   outline: none;
   cursor: pointer;
   line-height: 24px;
+}
+section.about .content .left button:hover{
+  background-color: var(--ternary);
+  color: var(--pure);
 }
 section.about .content .right p {
   line-height: 1.6;
