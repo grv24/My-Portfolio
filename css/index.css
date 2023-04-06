@@ -84,6 +84,7 @@ nav .inner button {
   font-size: 14px;
   border-radius: 4px;
   cursor: pointer;
+  transition: all .3s ease-in-out;
 }
 nav .inner button:hover{
   background: var(--info);
@@ -253,9 +254,10 @@ section.about .content .left button {
   outline: none;
   cursor: pointer;
   line-height: 24px;
+  transition: all .3s ease-in-out;
 }
 section.about .content .left button:hover{
-  background-color: var(--ternary);
+  background-color: var(--footer);
   color: var(--pure);
 }
 section.about .content .right p {
