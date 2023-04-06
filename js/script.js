@@ -88,15 +88,15 @@ $(document).ready(function () {
 
   //Magnify
 
-  $(".magnify").magnificPopup({
-    type: "image",
-    gallery: {
-      enabled: true,
-    },
-    zoom: {
-      enable: true,
-    },
-  });
+  // $(".magnify").magnificPopup({
+  //   type: "image",
+  //   gallery: {
+  //     enabled: true,
+  //   },
+  //   zoom: {
+  //     enable: true,
+  //   },
+  // });
 
   //Slider
 
