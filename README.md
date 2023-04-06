@@ -1,6 +1,6 @@
 # Portfolio
 
-This is a simple HTML CV, created by Gourav Mahobe.
+This is a simple web CV, created by Gourav Mahobe.
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ The About section contains information about Gourav, including his name, date of
 
 The Skills section contains information about Gourav's education and skills. The education information is presented in a timeline format, with the name of the institution, the degree, and the dates of attendance. The skills are presented in a bullet point list.
 
-Github gnerated page url: https://sachin12031999.github.io/NYIF-Capital_Market_Professional/
+Github gnerated page url: https://grv24.github.io/My-Portfolio/
 
 
 
@@ -50,7 +50,7 @@ Github gnerated page url: https://sachin12031999.github.io/NYIF-Capital_Market_P
 ## clone  this GitHub repository
 
 - Open a terminal or Git Bash window on your local machine
-- type ''' git clone https://github.com/username/repository '''
+- type '''gh repo clone grv24/My-Portfolio'''
 
 ## Screenshorts
 
