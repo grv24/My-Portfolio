@@ -50,7 +50,7 @@ Github gnerated page url: https://sachin12031999.github.io/NYIF-Capital_Market_P
 ## clone  this GitHub repository
 
 - Open a terminal or Git Bash window on your local machine
-- type ''' git clone https://github.com/username/repository '''
+- type ''' gh repo clone grv24/My-Portfolio '''
 
 ## Screenshorts
 
