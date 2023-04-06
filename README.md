@@ -1,6 +1,6 @@
 # Portfolio
 
-This is a simple HTML CV, created by Gourav Mahobe.
+This is a simple web CV, created by Gourav Mahobe.
 
 ## Table of Contents
 
